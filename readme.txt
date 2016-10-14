@@ -23,7 +23,7 @@ Under the line that says "_____Set your TS3 Path Here_____" Edit "SET TS3Path=C:
 		
 SAVE restart.bat
 
-Now Right click "ts3monitor.exe
+RIGHT CLICK and EDIT "ts3monitor.bat
 
 Under the line that says "_____Set your TS3 Path Here_____" Edit "SET TS3Path=C:\TS3\teamspeak3-server_win64" to reflect your TS3 Server Root Directory
 	example: SET TS3Path=C:\Programfiles\Teamspeak3\teamspeak3-server_win64
