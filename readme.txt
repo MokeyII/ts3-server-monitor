@@ -42,3 +42,5 @@ FOR "Save As:" button on the right side, select the restart.bat file you save in
 	example: C:\Programfiles\Teamspeak3\teamspeak3-server_win64\ts3monitor.exe
 	
 LAUNCH ts3monitor.exe
+
+NOTE: If your server crashes it will place the logs in your root directory labled as "crashreport.txt" and "restartlog.txt"
